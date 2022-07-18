@@ -1,2 +1,0 @@
-'/home/x4/.stack/programs/x86_64-linux/ghc-tinfo6-9.0.2/lib/ghc-9.0.2/bin/ghc' '-B/home/x4/.stack/programs/x86_64-linux/ghc-tinfo6-9.0.2/lib/ghc-9.0.2' 'colors.hs' 'dl.hs' 'main.hs' +RTS '-threaded' 
-<<ghc: 86702400 bytes, 54 GCs, 2430092/4797928 avg/max bytes residency (5 samples), 13M in use, 0.001 INIT (0.001 elapsed), 0.020 MUT (0.020 elapsed), 0.035 GC (0.035 elapsed) :ghc>>
