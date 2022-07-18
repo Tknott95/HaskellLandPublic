@@ -1,0 +1,2 @@
+Haskell is my fav lang!
+hGetLine grabbed dis bittie - Haskell is my fav lang!

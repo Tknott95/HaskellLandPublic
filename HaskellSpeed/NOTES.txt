@@ -1,0 +1,6 @@
+@NOTES
+
+- bring in a kmeans
+- bring in an rsa
+- just label them third_party_<*>.hs
+- 52/53 is interesting

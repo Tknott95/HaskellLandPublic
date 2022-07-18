@@ -1,0 +1,5 @@
+cat <NAME>.txt | ./02_piping
+
+example:  less 02.txt | ./02_piping 
+example: echo "jkadkjbadkjdakjd is this lowercase?? " | runhaskell 02_piping.hs
+
