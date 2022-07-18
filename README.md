@@ -1,7 +1,6 @@
 #HaskellLand
 
-
-Going to do the full io course in this repo next
+SOME RANDOM CODE BEING PUT INTO A REPOSITORY THAT WILL BUILD INTO A LITTLE REF
 
 HaskellAI needs a large refactor and is the juice
 
